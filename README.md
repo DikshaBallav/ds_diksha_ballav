@@ -52,7 +52,7 @@ ds_diksha_ballav/
 ├── ds_report.pdf
 └── README.md
 
-##  How to Run
+## How to Run
 
 1. Open `notebook_1.ipynb` in Google Colab  
 2. Ensure notebook access is set to **Anyone with the link can view**  
